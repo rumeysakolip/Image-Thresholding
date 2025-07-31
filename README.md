@@ -10,6 +10,6 @@ Bu çalışmalardan elde edilen bilgiler ışığında, yapılacak projenin kaps
 Her bir PE, içinde histogram oluşturma, eşik hesaplama ve ikilileştirme birimlerini barındıran modüler bir yapıya sahip olacak şekilde tasarlanmalıdır. Bu yapı, OpenMP gibi yazılım kütüphanelerinin çok çekirdekli CPU’larda sunduğu paralellik modeline benzer şekilde, ancak donanım düzeyinde, eş zamanlı işlem gerçekleştirilmesini sağlar. Ayrıca, verilerin FIFO üzerinden PE’lere aktarılması ve işlenmiş verinin sıralı olarak tekrar toplanması sayesinde bellek erişim çatışmaları minimize edilir.  
 Sonuç olarak, bu çalışmada geliştirilecek sistem ile hem adaptif eşikleme yöntemlerinin donanımda uygulanabilirliği gösterilecek, hem de özel PE mimarileri kullanılarak yüksek doğruluk, düşük gecikme ve verimli kaynak kullanımı hedeflenecektir. Bu yaklaşım, gömülü sistemlerde, düşük güçlü gerçek zamanlı görüntü işleme uygulamaları için güçlü bir temel teşkil etmektedir.
 ## Kaynaklar
-[1] https://pmc.ncbi.nlm.nih.gov/articles/PMC8234950/
-[2] https://dergipark.org.tr/tr/download/article-file/254958
-[3] https://www.ijert.org/research/adaptive-thresholding-for-image-enhancement-hardware-approach-IJERTCONV3IS01040.pdf
+[1] https://pmc.ncbi.nlm.nih.gov/articles/PMC8234950/  
+[2] https://dergipark.org.tr/tr/download/article-file/254958  
+[3] https://www.ijert.org/research/adaptive-thresholding-for-image-enhancement-hardware-approach-IJERTCONV3IS01040.pdf  
