@@ -15,3 +15,4 @@ Sonuç olarak, geliştirilecek sistemle, adaptif eşikleme algoritmalarının FP
 [1] https://pmc.ncbi.nlm.nih.gov/articles/PMC8234950/  
 [2] https://dergipark.org.tr/tr/download/article-file/254958  
 [3] https://www.ijert.org/research/adaptive-thresholding-for-image-enhancement-hardware-approach-IJERTCONV3IS01040.pdf  
+[4] https://batuhandaz.medium.com/dijital-g%C3%B6r%C3%BCnt%C3%BC-i%CC%87%C5%9Fleme-image-processing-7-otsu-methodu-ve-k-means-k%C3%BCmelenmesi-23508548df9a  
