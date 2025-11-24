@@ -5,11 +5,6 @@ module bit_packing (
     input               reset,
     input               start,
     output reg          done,
-    // Threshold values
-    input       [7:0]   threshold_0,
-    input       [7:0]   threshold_1,
-    input       [7:0]   threshold_2,
-    input       [7:0]   threshold_3,
     // Pixel inputs
     input               pixel_in_0,
     input               pixel_in_1,
@@ -21,7 +16,7 @@ module bit_packing (
 );
     reg [2:0] bit_counter;
     reg [7:0] byte_buffer;
-    
+
     always @(posedge clk or posedge reset) begin
         if (reset) begin
             bit_counter <= 0;
